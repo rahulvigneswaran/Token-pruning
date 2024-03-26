@@ -4,6 +4,7 @@ Collection of papers that does token pruning
 
 | Year | Conference | Title | Paper Link | Code Link | Modality | 
 |------|------------|-------|------------|-----------|-----------|
+| 2023 | CVPR | Making Vision Transformers Efficient from A Token Sparsification View | [paper](https://arxiv.org/pdf/2303.08685.pdf | [code](https://github.com/changsn/STViT-R) | 
 | 2023 | ICLR | Token Merging: Your ViT But Faster | [Paper](https://openreview.net/forum?id=JroZRaRw7Eu) | [Code](https://github.com/facebookresearch/ToMe) | Image |
 | 2023 | ICLR | [WITHDRAWN] SaiT: Sparse Vision Transformers through Adaptive Token Pruning |  [Paper](https://openreview.net/forum?id=u9o4qgwJlj&referrer=%5Bthe%20profile%20of%20Joseph%20Hassoun%5D(%2Fprofile%3Fid%3D~Joseph_Hassoun1)) | - | Image | 
 | 2023 | ICCV | Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation | [Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_Dynamic_Token_Pruning_in_Plain_Vision_Transformers_for_Semantic_Segmentation_ICCV_2023_paper.html) | [Code](https://github.com/zbwxp/Dynamic-Token-Pruning) | Image |
